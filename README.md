@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taher
 =============================================================================================================================
 
-Cloud Engineer/IT Tech/self-taught Software Developer
+Cloud Engineer/IT Tech and Software Developer
 -----------------------------------------------------
 
 <p>My first computer programming experience was with GW Basic, on a BBC Acorn Electron in the late 80s, at the age of 11. When I accidentally stumbled into the code of Paperboy game. I didn’t have a clue what it was until I changed some text that was displayed in the game, and when I played the game again, the in game text was changed. It was that moment I fell in love with coding, I started to change the code for other games I had, changing player1 to my name or adding more lives.</p> 
