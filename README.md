@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Taher Mahmood
+## Hi, I'm Taher 👋  
 
 **Full Stack Software Engineer** | **AWS Certified Cloud Practitioner** | **Cloud-Native App Developer**
 
 ---
+
+
 
 🎓 **Certified in**  
 - 🧠 *Level 5 Diploma in Full Stack Web Application Development* — Distinction  
@@ -25,37 +27,84 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=TaherCCG&color=blueviolet&style=flat-square)
+
+---
 ## 🧰 Tech Stack & Tools
-### 💻 Frontend
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="36" height="36" alt="Bootstrap" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" /> </p>
 
-### 🔧 Backend
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" height="36" alt="Django" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /> </p>
+### 🖥️ Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Materialize](https://img.shields.io/badge/Materialize-EE6E73?logo=materialdesign&logoColor=white&style=flat-square)
 
-### ☁️ Cloud & Hosting
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="36" height="36" alt="Heroku" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ionos_logo.svg/200px-Ionos_logo.svg.png" width="80" alt="IONOS" />
-</p>
+### 🔧 Backend & Databases   
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
 
-### ⚙️ DevOps & Tools
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" /> </p>
 
-### 🎨 Design & Prototyping
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="36" height="36" alt="Adobe Photoshop" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="36" height="36" alt="GIMP" /> </p>
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
+![IONOS](https://img.shields.io/badge/IONOS-0011FF?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+![Plesk](https://img.shields.io/badge/Plesk-52BAD5?style=flat-square)
+![VPS](https://img.shields.io/badge/VPS-333333?style=flat-square)
+![Dokku](https://img.shields.io/badge/Dokku-7B519D?style=flat-square)
+
+### 🧪 Testing & Performance  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-111827?logo=lighthouse&logoColor=white&style=flat-square)
+![Wave](https://img.shields.io/badge/WAVE%20Tool-6C63FF?style=flat-square)
+![W3C Validator](https://img.shields.io/badge/W3C_Validator-005A9C?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=flat-square)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square)
+
+### 🔧 Dev Tools & IDEs  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
+![CLI](https://img.shields.io/badge/CLI-Terminal-2C2C2C?style=flat-square)
+![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=black&style=flat-square)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=flat-square)
+
+### 🎨 Design & Prototyping  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat-square)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=flat-square)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-FF9E1B?logo=lucidchart&logoColor=white&style=flat-square)
+![Balsamiq](https://img.shields.io/badge/Balsamiq-FF5100?logo=balsamiq&logoColor=white&style=flat-square)
 
 ---
 
-### 🔗 Socials  
-<p align="left">
-<a href="https://www.linkedin.com/in/taher-m" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/taher-m" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/c/@ChaosCrewGaming" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-</p>
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/taher-m)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/c/@ChaosCrewGaming)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://www.twitter.com/taher-m)
+
+---
+
+### 🎯 2025 Goals  
+- ✅ Launch OneLoveOneUmmah MVP  
+- 📚 Study for AWS Solutions Architect Associate  
+- ✍️ Write a dev blog series on Flask + Dokku deployments  
 
 ---
 
