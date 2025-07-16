@@ -4,23 +4,32 @@
 
 ---
 
+## 👨‍💻 About Me
 
+I'm a **Full Stack Developer** and **Cloud Engineer** with over **25 years in the computing field**.  My journey began in the early '90s at age 11, programming in **GW-BASIC** on a **BBC Acorn Electron**, igniting a lifelong passion for technology and problem-solving.
+
+Today, I specialise in **Python (Django & Flask)**, **JavaScript (React & Vue.js)**, and **cloud-native development**.  I build and deploy scalable, secure web applications using tools like **Docker**, **Dokku**, and **Git**, while managing infrastructure across **AWS**, as well as **IONOS Linux VPS and dedicated servers**.
+
+I'm an **AWS Certified Cloud Practitioner** with a **Level 5 Diploma in Full Stack Web Application Development (Distinction)**, and an **official IONOS Agency Partner**.  I have hands-on experience with both **Infrastructure as a Service (IaaS)** and **Platform as a Service (PaaS)** models, enabling efficient delivery of **end-to-end MVPs**, **production apps**, and **internal tools**.
+
+Driven by purpose, I write **clean, maintainable code** and design with **user impact** in mind, always building with **integrity**, **intention**, and **long-term value** — *in shāʾ Allāh*.
+
+---
 
 🎓 **Certified in**  
 - 🧠 *Level 5 Diploma in Full Stack Web Application Development* — Distinction  
 - ☁️ *AWS Certified Cloud Practitioner*
 
-💻 **Currently Building**  
-- Cloud-native apps with Django, Flask, Dokku, and Plesk  
-- End-to-end MVPs for real-world use  
-- Personal faith-based wellbeing app [OneLoveOneUmmah]  
-- Game server configs and mods (DayZ & more)
+---
 
-🛠️ **Tech Stack**  
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
-- **Backend**: Python, Flask, Django, PHP, MySQL  
-- **Cloud**: AWS, Azure, GCP, IONOS, VPS Hosting  
-- **Tools**: Git, GitHub, CI/CD, Docker, Figma, VS Code  
+💻 **Currently Building**  
+- Full-stack cloud-native applications (Python, Django, Flask)  
+- VPS & containerised hosting using Docker, Dokku & Plesk  
+- Interactive MVPs using Tailwind, Vue, and React  
+- Private SaaS-style tools for game server management  
+- Personal wellbeing platform (faith-based)
+ 
+---
 
 🌐 **Portfolio**: [tahermahmood.dev](https://www.tahermahmood.dev)  
 📇 **LinkedIn**: [linkedin.com/in/taher-m](https://www.linkedin.com/in/taher-m)  
@@ -102,9 +111,11 @@
 ---
 
 ### 🎯 2025 Goals  
-- ✅ Launch OneLoveOneUmmah MVP  
+- ✅ Launch MVP for a purpose-driven wellbeing platform  
 - 📚 Study for AWS Solutions Architect Associate  
-- ✍️ Write a dev blog series on Flask + Dokku deployments  
+- ✍️ Write a dev blog series on Flask + Dokku deployments
+- 🌱 Explore open-source contribution in Django or Vue ecosystems
+- 🚧 Developing a web-based tool to simplify live server management for gaming communities
 
 ---
 
@@ -113,9 +124,13 @@
 <a href="http://www.github.com/TaherCCG"><img src="https://github-readme-stats.vercel.app/api?username=TaherCCG&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true" alt="Taher's GitHub Stats" /></a>
 </p>
 
+---
+
 <p align="left">
 <a href="http://www.github.com/TaherCCG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaherCCG&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
+
+---
 
 <p align="left">
 <a href="https://github.com/TaherCCG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaherCCG&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
