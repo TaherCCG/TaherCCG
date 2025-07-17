@@ -4,15 +4,13 @@
 
 ---
 
-## 👨‍💻 About Me
+I'm a **Software Engineer** and **Cloud Specialist** with over **25 years in the computing field**. My journey began in the early '90s at age 11, programming in **GW-BASIC** on a **BBC Acorn Electron** — igniting a lifelong passion for technology and problem-solving.
 
-I'm a **Full Stack Developer** and **Cloud Engineer** with over **25 years in the computing field**.  My journey began in the early '90s at age 11, programming in **GW-BASIC** on a **BBC Acorn Electron**, igniting a lifelong passion for technology and problem-solving.
+Today, I specialise in **Python (Django & Flask)**, **JavaScript (React & Vue.js)**, and **cloud-native development**. I build and deploy scalable, secure web applications using tools like **Docker**, **Dokku**, and **Git**, and manage infrastructure across **AWS**, **IONOS VPS**, and **dedicated Linux servers**.
 
-Today, I specialise in **Python (Django & Flask)**, **JavaScript (React & Vue.js)**, and **cloud-native development**.  I build and deploy scalable, secure web applications using tools like **Docker**, **Dokku**, and **Git**, while managing infrastructure across **AWS**, as well as **IONOS Linux VPS and dedicated servers**.
+I'm an **AWS Certified Cloud Practitioner** with a **Level 5 Diploma in Full Stack Web Application Development (Distinction)**, and an **official IONOS Agency Partner**. I have hands-on experience with both **Infrastructure as a Service (IaaS)** and **Platform as a Service (PaaS)** models — enabling efficient delivery of **end-to-end MVPs**, **production apps**, and **internal tools**.
 
-I'm an **AWS Certified Cloud Practitioner** with a **Level 5 Diploma in Full Stack Web Application Development (Distinction)**, and an **official IONOS Agency Partner**.  I have hands-on experience with both **Infrastructure as a Service (IaaS)** and **Platform as a Service (PaaS)** models, enabling efficient delivery of **end-to-end MVPs**, **production apps**, and **internal tools**.
-
-Driven by purpose, I write **clean, maintainable code** and design with **user impact** in mind, always building with **integrity**, **intention**, and **long-term value** — *in shāʾ Allāh*.
+Driven by purpose, I write **clean, maintainable code** and design with **user impact** in mind — always building with **integrity**, **intention**, and **long-term value** — *in shāʾ Allāh*.
 
 ---
 
@@ -24,11 +22,11 @@ Driven by purpose, I write **clean, maintainable code** and design with **user i
 
 💻 **Currently Building**  
 - Full-stack cloud-native applications (Python, Django, Flask)  
-- VPS & containerised hosting using Docker, Dokku & Plesk  
+- VPS & containerised hosting with Docker, Dokku & Plesk  
 - Interactive MVPs using Tailwind, Vue, and React  
 - Private SaaS-style tools for game server management  
 - Personal wellbeing platform (faith-based)
- 
+
 ---
 
 🌐 **Portfolio**: [tahermahmood.dev](https://www.tahermahmood.dev)  
